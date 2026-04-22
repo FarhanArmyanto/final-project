@@ -6,4 +6,7 @@ This project is a simple emotion detection application using Python.
 Farhan
 
 ## Description
+
+This application detects emotions from text input.
+=======
 This application detects emotions from text input.
