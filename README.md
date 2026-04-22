@@ -1,12 +1,10 @@
-# Emotion Detection App
+# Final Project
 
-This project is a simple emotion detection application using Python.
+## Emotion Detection App
+
+This project is a simple web-based emotion detection application using Python and Flask.
+
+It analyzes input text and returns the detected emotions such as joy, anger, sadness, and the dominant emotion.
 
 ## Author
-Farhan
-
-## Description
-
-This application detects emotions from text input.
-=======
-This application detects emotions from text input.
+Farhan Armyanto
